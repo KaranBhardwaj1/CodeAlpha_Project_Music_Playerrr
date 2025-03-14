@@ -203,7 +203,7 @@ body {
     .stroke:nth-child(7){
         animation-delay: 0s;
     }
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     display:flex;
     .flex-item-right, .flex-item-left {
     flex: 100%;}
