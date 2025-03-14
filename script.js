@@ -34,30 +34,6 @@ const music_list = [
         music : 'music/Snake - Cheema Y (DJJOhAL.Com).mp3'
     },
     {
-        img : 'images/YG.jpeg',
-        name : 'Trump',
-        artist : 'Cheema Y',
-        music : 'music/Trump - Cheema Y (DJJOhAL.Com).mp3'
-    },
-    {
-        img : 'images/gears.webp',
-        name : 'Gears',
-        artist : 'Arjan',
-        music : 'music/Gears - Arjan Dhillon.mp3'
-    },
-    {
-        img : 'images/bars.jpeg',
-        name : 'Bars',
-        artist : 'Shubh',
-        music : 'music/Bars.mp3'
-    },
-    {
-        img : 'images/pendu.jpeg',
-        name : 'Pendu',
-        artist : 'Amrinder Gill',
-        music : 'music/_Pendu (feat. Young Fateh) - Amrinder Gill.mp3'
-    },
-    {
         img : 'images/college.webp',
         name : 'College',
         artist : 'Mankirt Aulakh',
@@ -68,12 +44,6 @@ const music_list = [
         name : 'Petrol',
         artist : 'Arjan',
         music : 'music/Petrol - Arjan Dhillon.mp3'
-    },
-    {
-        img : 'images/Jatt-Badaami.jpg',
-        name : 'Jatt Badami',
-        artist : 'Dilpreet',
-        music : 'music/Jatt Badaami Dilpreet Dhillon 320 Kbps.mp3'
     },
     {
         img : 'images/sidhu.jpg',
@@ -100,40 +70,16 @@ const music_list = [
         music : 'music/Goat - Djjohal.fm.mp3'
     },
     {
-        img : 'images/Wavy.jpg',
-        name : 'Wavy',
-        artist : 'Karan Aujla',
-        music : 'music/Wavy Karan Aujla 128 Kbps.mp3'
-    },
-    {
-        img : 'images/sidhu.jpg',
-        name : 'Sidhu Son',
-        artist : 'Sidhu',
-        music : 'music/Sidhu Son - Djjohal.fm.mp3'
-    },
-    {
         img : 'images/sidhu.jpg',
         name : 'Selfmade',
         artist : 'Sidhu',
         music : 'music/Selfmade - Djjohal.fm.mp3'
     },
     {
-        img : 'images/takeiteasy.jpeg',
-        name : '52 Bars',
-        artist : 'Karan Aujla',
-        music : 'music/52 Bars - Karan Aujla.mp3'
-    },
-    {
         img : 'images/sidhu.jpg',
         name : 'Cadillac',
         artist : 'Sidhu',
         music : 'music/Cadillac - Djjohal.fm.mp3'
-    },
-    {
-        img : 'images/takeiteasy.jpeg',
-        name : 'Take It Easy',
-        artist : 'Karan Aujla',
-        music : 'music/Take It Easy - Karan Aujla.mp3'
     },
     
 ];
